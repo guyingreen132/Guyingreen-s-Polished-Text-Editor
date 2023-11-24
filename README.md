@@ -4,8 +4,8 @@ This is a text editor you can use to code or make notes or other stuff you can d
 
 In this you can :
 
-Make games or websites
+•Make games or websites
 
-make text files
+•make text files
 
-or open text files.
+•and open text files.
